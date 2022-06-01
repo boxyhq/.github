@@ -12,3 +12,14 @@ Audit Logs, Directory Sync and Privacy Vault products are coming soon. Please ge
 
 ## Contact Us
 If you have any questions or just want to chat about enterprise readiness, compliance and security please reach out on [Discord](https://discord.gg/uyb7pYt4Pa), [email](mailto:hello@boxyhq.com) or [chat](https://boxyhq.com/#hs-chat-open)
+
+## BoxyHQ Rewards (powered by Aviyel)
+
+Contributed to boxyhq? Here is a big thank you from our community to you. Claim your badge and showcase them with pride. Let us inspire more folks !
+
+<div align='center'>
+  <img src="https://aviyel.com/assets/uploads/rewards/share/project/11/512/share.png" alt="boxyhq Badges" />
+</div>
+<div>
+  <a href="https://aviyel.com/projects/11/boxyhq">Claim Now!</a>
+</div>
