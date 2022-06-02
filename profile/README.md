@@ -18,7 +18,7 @@ If you have any questions or just want to chat about enterprise readiness, compl
 Contributed to boxyhq? Here is a big thank you from our community to you. Claim your badge and showcase them with pride. Let us inspire more folks !
 
 <div align='center'>
-  <img src="https://aviyel.com/assets/uploads/rewards/share/project/11/512/share.png" alt="boxyhq Badges" />
+  <img src="https://aviyel.com/assets/uploads/rewards/share/project/11/512/share.png?" alt="boxyhq Badges" />
 </div>
 <div>
   <a href="https://aviyel.com/projects/11/boxyhq">Claim Now!</a>
