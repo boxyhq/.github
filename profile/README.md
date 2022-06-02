@@ -15,7 +15,7 @@ If you have any questions or just want to chat about enterprise readiness, compl
 
 ## BoxyHQ Rewards (powered by Aviyel)
 
-Contributed to boxyhq? Here is a big thank you from our community to you. Claim your badge and showcase them with pride. Let us inspire more folks !
+Contributed to BoxyHQ? Here is a big thank you from our community to you. Claim your badge and showcase them with pride. Let us inspire more folks !
 
 <div align='center'>
   <img src="https://aviyel.com/assets/uploads/rewards/share/project/11/512/share.png?" alt="boxyhq Badges" />
