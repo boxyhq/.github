@@ -5,7 +5,7 @@ BoxyHQ helps startups enable enterprise features in any SaaS app with just a few
 ## SAML Jackson
 To add SAML single sign-on authentication to your product check out our [Github repo](https://github.com/boxyhq/jackson)
 
-Visit the [Documentation](https://boxyhq.com/docs/jackson/overview) and [Guides](https://boxyhq.com/guides/jackson) pages for more details.
+Visit the [Documentation](https://boxyhq.com/docs/jackson) and [Guides](https://boxyhq.com/guides/jackson) pages for more details.
 
 ## Coming Soon
 Audit Logs, Directory Sync and Privacy Vault products are coming soon. Please get in touch (details below) if you'd be interested to test these in private beta in the meantime.
