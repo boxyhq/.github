@@ -1,6 +1,8 @@
 [![BoxyHQ banner](https://boxyhq.com/img/logo-large.png)](https://boxyhq.com/)
 
-BoxyHQ helps startups enable enterprise features in any SaaS app with just a few lines of code. Integrate SAML, Audit Logs, Privacy Vault and Role Based Access in minutes. Open source and free.
+BoxyHQ helps developers automate product security, and it provides low-code APIs to enable enterprise-compliant security via simple and efficient integrations. Including SAML SSO, audit logs, directory sync, and privacy vault.
+
+Through its commercial open source shift left approach it intends to become the leading Developer Security platform; think of it as an extension of your security team or your security team if you don't have one.
 
 ## SAML Jackson
 To add SAML single sign-on authentication to your product check out our [Github repo](https://github.com/boxyhq/jackson)
