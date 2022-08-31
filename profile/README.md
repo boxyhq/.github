@@ -1,4 +1,4 @@
-<img src="https://boxyhq.com/img/logo-large.png"  width="804" height="219">
+<img src="https://boxyhq.com/img/logo-large.png"  width="603" height="164">
 
 BoxyHQ helps developers automate product security, and it provides low-code APIs to enable enterprise-compliant security via simple and efficient integrations. Including SAML SSO, audit logs, directory sync, and privacy vault.
 
@@ -10,7 +10,7 @@ To add SAML single sign-on authentication to your product check out our [Github 
 Visit the [Documentation](https://boxyhq.com/docs/jackson/overview) and [Guides](https://boxyhq.com/guides/jackson) pages for more details.
 
 ## Coming Soon
-Audit Logs, Directory Sync and Privacy Vault products are coming soon. Please get in touch (details below) if you'd be interested to test these in private beta in the meantime.
+Audit Logs, Directory Sync and Privacy Vault products are coming soon. We are also in very early stages of building a Developer Security Mesh (DevSecMesh) to automate security across your entire tech stack. Please get in touch (details below) if you'd be interested to test these in private beta in the meantime.
 
 ## Contact Us
 If you have any questions or just want to chat about enterprise readiness, compliance and security please reach out on [Discord](https://discord.gg/uyb7pYt4Pa), [email](mailto:hello@boxyhq.com) or [chat](https://boxyhq.com/#hs-chat-open)
