@@ -9,8 +9,14 @@ To add SAML single sign-on authentication to your product check out our [Github 
 
 Visit the [Documentation](https://boxyhq.com/docs/jackson/overview) and [Guides](https://boxyhq.com/guides/jackson) pages for more details.
 
+## Directory Sync
+To add directory sync (based on the SCIM 2.0 protocol) to your product check out our [Github repo](https://github.com/boxyhq/jackson#directory-sync)
+
+## Awesome developer security tools
+We have curated a list of [awesome open-source developer security tools](https://github.com/boxyhq/awesome-oss-devsec). It includes principles, controls, and relevance to popular compliance certifications (like ISO27001, SOC2, MVSP, etc.).
+
 ## Coming Soon
-Audit Logs, Directory Sync and Privacy Vault products are coming soon. We are also in very early stages of building a Developer Security Mesh (DevSecMesh) to automate security across your entire tech stack. Please get in touch (details below) if you'd be interested to test these in private beta in the meantime.
+Audit Logs and Privacy Vault products are coming soon. We are also in very early stages of building a Developer Security Mesh (DevSecMesh) to automate security across your entire tech stack. Please get in touch (details below) if you'd be interested to test these in private beta in the meantime.
 
 ## Contact Us
 If you have any questions or just want to chat about enterprise readiness, compliance and security please reach out on [Discord](https://discord.gg/uyb7pYt4Pa), [email](mailto:hello@boxyhq.com) or [chat](https://boxyhq.com/#hs-chat-open)
