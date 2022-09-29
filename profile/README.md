@@ -21,6 +21,9 @@ Audit Logs and Privacy Vault products are coming soon. We are also in very early
 ## Contact Us
 If you have any questions or just want to chat about enterprise readiness, compliance and security please reach out on [Discord](https://discord.gg/uyb7pYt4Pa), [email](mailto:hello@boxyhq.com) or [chat](https://boxyhq.com/#hs-chat-open)
 
+## Hacktoberfest
+Join us on [Hacktoberfest](https://github.com/boxyhq/hacktoberfest-22) and learn everything about developer security along the way.
+
 ## BoxyHQ Rewards (powered by Aviyel)
 
 Contributed to BoxyHQ? Here is a big thank you from our community to you. Claim your badge and showcase them with pride. Let us inspire more folks !
