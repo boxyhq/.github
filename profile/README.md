@@ -24,22 +24,7 @@ Privacy Vault product is coming soon. We are also in very early stages of buildi
 ## Join BoxyHQ Community 
 Join the community of developer security enthusiats to discuss about DevSecOps, security, compliance and more on our [Discord](https://discord.gg/uyb7pYt4Pa)
 
-## We are now Hacktoberfest-Ready!
-Join us on [Hacktoberfest initiative](https://github.com/boxyhq/hacktoberfest-22) and learn everything about developer security along the way.
-
 _______
 
 ## Contact Us
 If you have any questions or just want to chat about enterprise readiness, compliance and security please reach out on [Discord](https://discord.gg/uyb7pYt4Pa), [email](mailto:hello@boxyhq.com) or [chat](https://boxyhq.com/#hs-chat-open)
-
-
-## BoxyHQ Rewards (powered by Aviyel)
-
-Contributed to BoxyHQ? Here is a big thank you from our community to you. Claim your badge and showcase them with pride. Let us inspire more folks !
-
-<div align='center'>
-  <img src="https://aviyel.com/assets/uploads/rewards/share/project/11/512/share.png?" alt="boxyhq Badges" />
-</div>
-<div>
-  <a href="https://aviyel.com/projects/11/boxyhq">Claim Now!</a>
-</div>
