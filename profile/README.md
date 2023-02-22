@@ -13,16 +13,16 @@ Visit the [Documentation](https://boxyhq.com/docs/jackson/overview) and [Guides]
 To add directory sync (based on the SCIM 2.0 protocol) to your product check out our [Github repo](https://github.com/boxyhq/jackson#directory-sync)
 
 ## Audit Logs
-To add Audit Logs to your SaaS or OSS product check out our [Github repo](https://github.com/retracedhq/retraced). We are collborating with our friends at [Replicated](https://replicated.com/) to bring you a fully open source audit log service and embeddable UI that's easily deployed to an infrastructure of your choice.
+To add Audit Logs to your SaaS or OSS product check out our [Github repo](https://github.com/retracedhq/retraced). We are collaborating with our friends at [Replicated](https://replicated.com/) to bring you a fully open-source audit log service and embeddable UI that's easily deployed to an infrastructure of your choice.
 
 ## Awesome developer security tools
 We have curated a list of [awesome open-source developer security tools](https://github.com/boxyhq/awesome-oss-devsec). It includes security principles and controls relevant to popular compliance certifications (like ISO27001, SOC2, MVSP, etc.).
 
 ## Coming Soon
-Privacy Vault product is coming soon. We are also in very early stages of building Developer Security Mesh (DevSecMesh) to automate security across your entire tech stack. Please get in touch (details below) if you'd be interested to test these in private beta in the meantime.
+Privacy Vault product is coming soon. We are also in the very early stages of building Developer Security Mesh (DevSecMesh) to automate security across your entire tech stack. Please get in touch (details below) if you'd be interested to test these in private beta in the meantime.
 
 ## Join BoxyHQ Community 
-Join the community of developer security enthusiats to discuss about DevSecOps, security, compliance and more on our [Discord](https://discord.gg/uyb7pYt4Pa)
+Join the community of developer security enthusiasts to discuss DevSecOps, security, compliance and more on our [Discord](https://discord.gg/uyb7pYt4Pa)
 
 _______
 
