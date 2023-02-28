@@ -1,4 +1,4 @@
-<img src="https://boxyhq.com/img/logo-large.png"  width="603" height="164">
+<img src="https://boxyhq.com/img/logo-large-white-bkg.png"  width="603" height="164">
 
 BoxyHQ helps developers automate product security and provides low-code APIs to enable enterprise-compliant security via simple and efficient integrations. This includes SAML SSO, audit logs, directory sync and privacy vault.
 
