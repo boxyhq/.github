@@ -5,7 +5,7 @@
 Reduce Time to Market without sacrificing your security posture! <br>
 BoxyHQ’s suite of APIs for security and privacy helps engineering teams build and ship compliant cloud applications faster.
 
-This includes SAML SSO, audit logs, directory sync, and privacy vault.
+This includes [SAML SSO](https://boxyhq.com/enterprise-sso), [Audit Logs](https://boxyhq.com/audit-logs), [Directory Sync](https://boxyhq.com/directory-sync), & [Privacy Vault](https://boxyhq.com/privacy-vault).
 
 ## SAML Jackson
 To add SAML single sign-on authentication to your product check out our [Github repo](https://github.com/boxyhq/jackson)
