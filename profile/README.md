@@ -1,4 +1,5 @@
-<img src="https://boxyhq.com/img/logo-large-white-bkg.png"  width="603" height="164">
+
+![BoxyHQ Banner](https://github.com/boxyhq/.github/assets/66887028/480dd11f-35db-45b0-b5fe-9fb64bbd7c78)
 
 ## Security Building Blocks for Developers
 
