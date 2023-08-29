@@ -1,18 +1,17 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/boxyhq/jackson/assets/66887028/b40520b7-dbce-400b-88d3-400d1c215ea1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/boxyhq/jackson/assets/66887028/43c22388-5838-4c05-b25e-11ef7b6c6c40">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/boxyhq/.github/assets/66887028/df1c9904-df2f-4515-b403-58b14a0e9093">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/boxyhq/.github/assets/66887028/e093a466-72ea-41c6-a292-4c39a150facd">
   <img alt="BoxyHQ Banner" src="https://github.com/boxyhq/jackson/assets/66887028/b40520b7-dbce-400b-88d3-400d1c215ea1">
 </picture>
 
-
-## ⭐ Security Building Blocks for Developers
+## ⭐ Why BoxyHQ?
 
 Reduce Time to Market without sacrificing your security posture! <br>
 BoxyHQ’s suite of APIs for security and privacy helps engineering teams build and ship compliant cloud applications faster.
 
 This includes [SAML SSO](https://boxyhq.com/enterprise-sso), [Audit Logs](https://boxyhq.com/audit-logs), [Directory Sync](https://boxyhq.com/directory-sync), & [Privacy Vault](https://boxyhq.com/privacy-vault).
 
-## 🤩 SAML Jackson
+## 🤩 SAML Jackson Single Sign-On (SSO)
 To add SAML single sign-on authentication to your product check out our [Github repo](https://github.com/boxyhq/jackson)
 
 Visit the [Documentation](https://boxyhq.com/docs/jackson/overview) and [Guides](https://boxyhq.com/guides/jackson) pages for more details.
