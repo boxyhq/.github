@@ -1,40 +1,50 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/boxyhq/.github/assets/66887028/df1c9904-df2f-4515-b403-58b14a0e9093">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/boxyhq/.github/assets/66887028/e093a466-72ea-41c6-a292-4c39a150facd">
-  <img alt="BoxyHQ Banner" src="https://github.com/boxyhq/jackson/assets/66887028/b40520b7-dbce-400b-88d3-400d1c215ea1">
-</picture>
+<p align="center">
+  <a href="https://www.ory.sh" target="_blank">
+    <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" width="215" height="110" alt="Ory - Open-source identity and access infrastructure" />
+  </a>
+</p>
 
-## ⭐ Why BoxyHQ?
+BoxyHQ has been acquired by Ory and is now officially part of the Ory suite of products as [Ory Polis](https://github.com/ory/polis).
 
-Reduce Time to Market without sacrificing your security posture! <br>
-BoxyHQ’s suite of APIs for security and privacy helps engineering teams build and ship compliant cloud applications faster.
+You can watch the video from BoxyHQ and Ory founders to learn more.
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=i3njlFLQe4w">
+         <img src="https://img.youtube.com/vi/i3njlFLQe4w/0.jpg" style="width:100%;">
+      </a>
+</div>
 
-This includes [SAML SSO](https://boxyhq.com/enterprise-sso), [Audit Logs](https://boxyhq.com/audit-logs), [Directory Sync](https://boxyhq.com/directory-sync), & [Privacy Vault](https://boxyhq.com/privacy-vault).
+Or read about it on [Ory's blog](https://www.ory.sh/blog/introducing-ory-polis-for-enterprise-single-sign-on).
 
-## 🤩 SAML Jackson Single Sign-On (SSO)
-To add SAML single sign-on authentication to your product check out our [Github repo](https://github.com/boxyhq/jackson)
+# Ory: Open-source identity and access infrastructure for modern applications
 
-Visit the [Documentation](https://boxyhq.com/docs/jackson/overview) and [Guides](https://boxyhq.com/guides/jackson) pages for more details.
+Ory provides scalable, flexible, and secure identity and access management (IAM)
+solutions that empower developers to build innovative applications. Whether you
+handle billions of users or launch a startup, Ory makes security and compliance
+simple with open-source transparency and cutting-edge tools.
 
-## ✨ Directory Sync
-To add directory sync (based on the SCIM 2.0 protocol) to your product check out our [Github repo](https://github.com/boxyhq/jackson#directory-sync)
+## Why engineers choose Ory
 
-## 🏆 Audit Logs
-To add Audit Logs to your SaaS or OSS product check out our [Github repo](https://github.com/retracedhq/retraced). We are collaborating with our friends at [Replicated](https://replicated.com/) to bring you a fully open-source audit log service and embeddable UI that's easily deployed to an infrastructure of your choice.
+- **API-first identity management**: Ory offers a developer-friendly, headless
+  approach to user authentication and management with seamless frontend and
+  backend integration.
+- **Modern access control**: Add fine-grained permissions, relationship-based
+  access control (RBAC/ABAC), and Zero Trust principles with Ory's
+  high-performance tools.
+- **Web-grade scalability**: Built with cloud-native technologies, Ory scales
+  effortlessly to support hundreds of millions of active users and devices for
+  the largest websites in the world.
+- **Best-in-class security**: Meet stringent security standards with
+  passwordless login, multi-factor authentication (MFA), and adherence to GDPR
+  and other privacy regulations.
+- **Modular architecture**: Use what you need—identity, OAuth2,
+  permissions—without overhauling your stack, and extend functionality with
+  custom integrations.
+- **Open-source transparency**: Fully audit, customize, and contribute to Ory’s
+  codebase for ultimate flexibility.
+- **Developer tools and community**: Access extensive documentation, SDKs, CLI
+  tools, and join a vibrant community of engineers solving modern security
+  challenges.
 
-## 🚀 Enterprise SaaS Starter Kit
-Save hundreds of development hours and kickstart your enterprise-ready SaaS app development by using our Next.js based boilerplate with built-in customizable features. Check out our [Github repo.](https://github.com/boxyhq/saas-starter-kit)
-
-## 💡 Awesome developer security tools
-We have curated a list of [awesome open-source developer security tools](https://github.com/boxyhq/awesome-oss-devsec). It includes security principles and controls relevant to popular compliance certifications (like ISO27001, SOC2, MVSP, etc.).
-
-## ➡️ Coming Soon
-Privacy Vault product is coming soon. We are also in the very early stages of building Developer Security Mesh (DevSecMesh) to automate security across your entire tech stack. Please get in touch (details below) if you'd be interested to test these in private beta in the meantime.
-
-## ⚡ BoxyHQ Community 
-Please join our [Discord](https://discord.gg/uyb7pYt4Pa) community of developer security enthusiasts to discuss DevSecOps, security, compliance, and more.
-
-_______
-
-## 📣 Contact Us
-If you have any questions or want to chat about enterprise readiness or compliance and security, please reach out on [Discord](https://discord.gg/uyb7pYt4Pa), [Twitter](https://twitter.com/BoxyHQ), [email](mailto:hello@boxyhq.com), or [chat](https://boxyhq.com/#hs-chat-open).
+> Got questions or need help choosing the right solution for your needs? The Ory
+> team is here to help! [Contact Ory today](https://ory.sh/contact) to speak to
+> an expert.
