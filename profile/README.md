@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.ory.sh" target="_blank">
+  <a href="https://www.ory.com" target="_blank">
     <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" width="215" height="110" alt="Ory - Open-source identity and access infrastructure" />
   </a>
 </p>
@@ -13,7 +13,7 @@ You can watch the video from BoxyHQ and Ory founders to learn more.
       </a>
 </div>
 
-Or read about it on [Ory's blog](https://www.ory.sh/blog/introducing-ory-polis-for-enterprise-single-sign-on).
+Or read about it on [Ory's blog](https://www.ory.com/blog/introducing-ory-polis-for-enterprise-single-sign-on).
 
 # Ory: Open-source identity and access infrastructure for modern applications
 
@@ -46,5 +46,5 @@ simple with open-source transparency and cutting-edge tools.
   challenges.
 
 > Got questions or need help choosing the right solution for your needs? The Ory
-> team is here to help! [Contact Ory today](https://ory.sh/contact) to speak to
+> team is here to help! [Contact Ory today](https://ory.com/contact) to speak to
 > an expert.
